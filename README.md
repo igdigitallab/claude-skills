@@ -11,7 +11,7 @@ stage with `?stage=2`.
 ## Why one repo, not five
 
 Every skill here does one real, narrow job this agency does every week: build a client
-marketing site end to end, ship a scroll-driven WebGL hero, or write a Suno-ready song. They're
+website end to end, ship a scroll-driven WebGL hero, or write a Suno-ready song. They're
 grouped in one repo on purpose — a single collection is easier to discover, install from, and
 maintain than five one-file repos, and it's the honest unit: these are the skills one shop
 actually reaches for, not a scattered grab-bag.
@@ -20,7 +20,7 @@ actually reaches for, not a scattered grab-bag.
 
 | Skill | What it does | Reach for it when |
 |---|---|---|
-| [`client-site`](./skills/client-site/) | Full pipeline for a small-business marketing site: 10-question intake, fact-mining from Instagram/old site/flyers, a spec, a design system, an Astro + Tailwind build, SEO/AEO, a lead form, legal pages, deploy, and a real handoff. | A client wants a marketing site or landing page and you want a repeatable, no-fabrication process instead of guesswork. |
+| [`client-site`](./skills/client-site/) | Full pipeline for a small-business website: 10-question intake, fact-mining from Instagram/old site/flyers, a spec, a design system, an Astro + Tailwind build, structured data, a contact form, legal pages, deploy, and a real handoff. | A client wants a website or landing page and you want a repeatable, no-fabrication process instead of guesswork. |
 | [`scroll-particle-morph`](./skills/scroll-particle-morph/) | A scroll-choreographed WebGL particle field that assembles into a shape, explodes, and reassembles into the next one — procedural shapes instead of baked position-map textures, so a new shape is a code change. Reference implementation included. | You want a WebGL hero effect for a landing page — something that reads as "expensive" without a Blender/Houdini pipeline behind it. |
 | [`songwriter`](./skills/songwriter/) | Writes song lyrics and a matching style-of-music prompt for Suno AI (or similar text-to-music tools): structure, meta-tags, vocal styles, ad-libs, and a troubleshooting checklist for tracks that come out flat. | You need a full song — lyrics plus a style prompt — ready to paste into a text-to-music tool. |
 
